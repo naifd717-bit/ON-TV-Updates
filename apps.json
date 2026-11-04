@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "apps": [
+    {
+      "id": "launcher",
+      "title": "ON TV • اللانشر",
+      "subtitle": "M42  |  واجهة الجهاز الرئيسية",
+      "url": "https://github.com/naifd717-bit/ON-TV-Updates/releases/download/m42/ON_TV_PREMIUM_M42_UPDATES.apk",
+      "sha256": "64a38afa0ccbae100d8cdb013846336fc7b2a70399b3d1db0bc29c141f0acf1e",
+      "package_name": "com.ontv.launcher.managed",
+      "size_bytes": 44666878,
+      "version_code": 44
+    },
+    {
+      "id": "premium",
+      "title": "ON TV • العادي",
+      "subtitle": "RC7  |  تطبيق مستقل",
+      "url": "https://github.com/naifd717-bit/ON-TV-Updates/releases/download/downloader-v1/ON_TV_PREMIUM_RC7.apk",
+      "sha256": "82bac47a803547a8494dccbc4053501ffb59b646d3c6e668d3e45c546dc7c3f8",
+      "package_name": "com.ontv.premium",
+      "size_bytes": 16221832,
+      "version_code": 114
+    }
+  ]
+}
