@@ -4,12 +4,12 @@
     {
       "id": "launcher",
       "title": "ON TV • اللانشر",
-      "subtitle": "M43  |  أولوية المشاهدة",
-      "url": "https://github.com/naifd717-bit/ON-TV-Updates/releases/download/m43/ON_TV_PREMIUM_M43_DEMAND.apk",
-      "sha256": "ffde2990df746c8e77d16e1624b4f6b58cd944bb9877a64091b2c401a83fa9fc",
+      "subtitle": "M44  |  تحديث اختياري · حماية المكتبة",
+      "url": "https://github.com/naifd717-bit/ON-TV-Updates/releases/download/m44/ON_TV_PREMIUM_M44_RECOVERY.apk",
+      "sha256": "41f5d9ee6051b93a68ec30f86fbe9350709959416e1ebc5cf99ea5536c5bb32f",
       "package_name": "com.ontv.launcher.managed",
       "size_bytes": 44666880,
-      "version_code": 45
+      "version_code": 46
     },
     {
       "id": "premium",
