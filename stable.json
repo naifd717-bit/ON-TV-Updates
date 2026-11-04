@@ -3,14 +3,14 @@
     "package_name": "com.ontv.launcher.managed",
     "channel": "stable",
     "enabled": true,
-    "version_code": 44,
-    "min_supported_code": 44,
+    "version_code": 45,
+    "min_supported_code": 45,
     "min_sdk": 19,
     "max_sdk": 1000,
-    "version_name": "1.0.0-M42-updates",
-    "notes": "ربط التحديثات المستقلة، مع تحسينات M41 للأداء والقنوات وتجهيز الرئيسية.",
-    "apk_url": "https://github.com/naifd717-bit/ON-TV-Updates/releases/download/m42/ON_TV_PREMIUM_M42_UPDATES.apk",
-    "sha256": "64a38afa0ccbae100d8cdb013846336fc7b2a70399b3d1db0bc29c141f0acf1e",
-    "size_bytes": 44666878
+    "version_name": "1.0.0-M43-demand",
+    "notes": "فتح الأقسام دون نسبة انتظار، جلب القسم المطلوب أولًا، حفظ التقدم، وإيقاف الجلب أثناء المشاهدة.",
+    "apk_url": "https://github.com/naifd717-bit/ON-TV-Updates/releases/download/m43/ON_TV_PREMIUM_M43_DEMAND.apk",
+    "sha256": "ffde2990df746c8e77d16e1624b4f6b58cd944bb9877a64091b2c401a83fa9fc",
+    "size_bytes": 44666880
   }
 ]
