@@ -3,14 +3,14 @@
     "package_name": "com.ontv.launcher.managed",
     "channel": "stable",
     "enabled": true,
-    "version_code": 55,
+    "version_code": 58,
     "min_supported_code": 0,
     "min_sdk": 19,
     "max_sdk": 1000,
-    "version_name": "1.0.0-M53-cinema-focus",
-    "notes": "تحديث اختياري M53: إصلاح ازدواج وتأخر إطار التحديد في الثيم السينمائي، وتحسين التنقل السريع بين البوسترات والمنصات. يحافظ على المكتبة والإعدادات عند التثبيت فوق النسخة الحالية.",
-    "apk_url": "https://github.com/naifd717-bit/ON-TV-Updates/releases/download/m53/ON_TV_PREMIUM_M53_CINEMA_FOCUS.apk",
-    "sha256": "32216428ace4b59856a4d0ad908cedccd62292d41c3292be70bc7f8a70b7f17d",
-    "size_bytes": 39845710
+    "version_name": "1.0.0-M56-cinema-navigation",
+    "notes": "تحديث اختياري M56: تقريب تبويبات ON Cinema وفتح الأفلام والمسلسلات بالعرض السينمائي الأصلي. الثيم الأحمر وقوائمه دون تغيير، مع الحفاظ على الفهرس المحلي والمكتبة والإعدادات عند التثبيت فوق النسخة الحالية.",
+    "apk_url": "https://github.com/naifd717-bit/ON-TV-Updates/releases/download/m56/ON_TV_PREMIUM_M56_CINEMA_NAVIGATION.apk",
+    "sha256": "b8fa557e8e09c4f5a82eeb41fb604eac299a520574752615e711c39f3e7c30b3",
+    "size_bytes": 98705402
   }
 ]
