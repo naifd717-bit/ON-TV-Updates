@@ -3,14 +3,14 @@
     "package_name": "com.ontv.launcher.managed",
     "channel": "stable",
     "enabled": true,
-    "version_code": 48,
+    "version_code": 55,
     "min_supported_code": 0,
     "min_sdk": 19,
     "max_sdk": 1000,
-    "version_name": "1.0.0-M46-recovery",
-    "notes": "تحديث اختياري M46: استعادة البروتوكول السابق والهوستات الأربعة، تحسين بطاقات الأطفال، إدخال الكود بلمسة واحدة، وتجاوز الباقات المتعثرة وإعادة محاولتها.",
-    "apk_url": "https://github.com/naifd717-bit/ON-TV-Updates/releases/download/m46/ON_TV_PREMIUM_M46_RECOVERY.apk",
-    "sha256": "fa3809c5c0f75d4d4783eb5ab82e5018d996a297e9e8259ff7f9ed11892e6e78",
-    "size_bytes": 44662784
+    "version_name": "1.0.0-M53-cinema-focus",
+    "notes": "تحديث اختياري M53: إصلاح ازدواج وتأخر إطار التحديد في الثيم السينمائي، وتحسين التنقل السريع بين البوسترات والمنصات. يحافظ على المكتبة والإعدادات عند التثبيت فوق النسخة الحالية.",
+    "apk_url": "https://github.com/naifd717-bit/ON-TV-Updates/releases/download/m53/ON_TV_PREMIUM_M53_CINEMA_FOCUS.apk",
+    "sha256": "32216428ace4b59856a4d0ad908cedccd62292d41c3292be70bc7f8a70b7f17d",
+    "size_bytes": 39845710
   }
 ]
