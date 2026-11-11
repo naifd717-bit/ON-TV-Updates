@@ -3,14 +3,14 @@
     "package_name": "com.ontv.launcher.managed",
     "channel": "stable",
     "enabled": true,
-    "version_code": 59,
-    "min_supported_code": 0,
+    "version_code": 85,
+    "min_supported_code": 85,
     "min_sdk": 19,
     "max_sdk": 1000,
-    "version_name": "1.0.0-M57-cinema-platforms",
-    "notes": "تحديث اختياري M57: شاهد ونتفلكس وباقي المنصات بعرض ON Cinema الأصلي للأفلام والمسلسلات، مع بحث داخل كل منصة. الثيم الأحمر دون تغيير، مع الحفاظ على المكتبة والإعدادات عند التثبيت فوق النسخة الحالية.",
-    "apk_url": "https://github.com/naifd717-bit/ON-TV-Updates/releases/download/m57/ON_TV_PREMIUM_M57_CINEMA_PLATFORMS.apk",
-    "sha256": "a5c19b3735ef3cd9f8958bbca05f91e60f39b63e74a25fb315e8b58860d68a03",
-    "size_bytes": 98709495
+    "version_name": "1.0.0-M83-entertainment-remote",
+    "notes": "إطلاق ON TV PREMIUM M83. تحديث مطلوب للإصدارات الأقدم: تحسين بطاقات المنصات والجودات والمصادر، وإصلاح اختيار القنوات بالريموت. اختر القناة مباشرة؛ للجودة أخفِ القائمة واضغط OK مطولًا. ثبّت فوق النسخة الحالية دون حذف التطبيق أو مسح بياناته للحفاظ على التفعيل والمكتبة والمفضلة.",
+    "apk_url": "https://github.com/naifd717-bit/ON-TV-Updates/releases/download/m83/ON_TV_PREMIUM_M83.apk",
+    "sha256": "addff2c4e7103907be25c164c91591f07d9aaf6e30e86221319f7be6904e12ec",
+    "size_bytes": 90880833
   }
 ]
