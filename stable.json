@@ -3,14 +3,14 @@
     "package_name": "com.ontv.launcher.managed",
     "channel": "stable",
     "enabled": true,
-    "version_code": 119,
-    "min_supported_code": 0,
+    "version_code": 144,
+    "min_supported_code": 144,
     "min_sdk": 19,
     "max_sdk": 1000,
-    "version_name": "1.0.0-M117-kids-art",
-    "notes": "تحديث اختياري للنسخة العامة ON TV PREMIUM M117. يتضمن واجهة قنوات أطفال جديدة، وسجل المشاهدة والاستكمال من مكتبتي، والبحث بقصة الفيلم، والتحديث السريع للمكتبة، وعرض وقت الانتهاء المتوقع في المشغّل.",
-    "apk_url": "https://github.com/naifd717-bit/ON-TV-Updates/releases/download/m117/ON_TV_PREMIUM_M117.apk",
-    "sha256": "0270392f8b24565c44ac0d1d924b4459f5285e7fe98499490459725bd8101941",
-    "size_bytes": 100117005
+    "version_name": "1.0.0-M142",
+    "notes": "تحديث إلزامي لـ ON TV PREMIUM M142\n• أضفنا اللغة الإنجليزية لواجهة التطبيق.\n• صفحة رياضية تجمع البث المباشر والقنوات وجدول المباريات في شاشة واحدة.\n• «اختيارات بريميوم» داخل قسم الأفلام تساعدك تختار وش تشاهد، مع مقاطع قصيرة ترشّح لك أفلامًا ومسلسلات.\n• أضفنا منصة شاشا إلى قائمة المنصات.",
+    "apk_url": "https://github.com/naifd717-bit/ON-TV-Updates/releases/download/m42/ON_TV_PREMIUM_M42_UPDATES.apk",
+    "sha256": "1dc66bd68253b2b40c0bb9b63f4e5944e070bff21d3a7a00917e2c47e83e227f",
+    "size_bytes": 63306890
   }
 ]
