@@ -3,14 +3,14 @@
     "package_name": "com.ontv.launcher.managed",
     "channel": "stable",
     "enabled": true,
-    "version_code": 144,
-    "min_supported_code": 144,
+    "version_code": 179,
+    "min_supported_code": 0,
     "min_sdk": 19,
     "max_sdk": 1000,
-    "version_name": "1.0.0-M142",
-    "notes": "تحديث إلزامي لـ ON TV PREMIUM M142\n• أضفنا اللغة الإنجليزية لواجهة التطبيق.\n• صفحة رياضية تجمع البث المباشر والقنوات وجدول المباريات في شاشة واحدة.\n• «اختيارات بريميوم» داخل قسم الأفلام تساعدك تختار وش تشاهد، مع مقاطع قصيرة ترشّح لك أفلامًا ومسلسلات.\n• أضفنا منصة شاشا إلى قائمة المنصات.",
-    "apk_url": "https://github.com/naifd717-bit/ON-TV-Updates/releases/download/m42/ON_TV_PREMIUM_M42_UPDATES.apk",
-    "sha256": "1dc66bd68253b2b40c0bb9b63f4e5944e070bff21d3a7a00917e2c47e83e227f",
-    "size_bytes": 63306890
+    "version_name": "1.0.0-M177-ExoPlayer-Only",
+    "notes": "تحديث اختياري لـ ON TV PREMIUM M177\n• إزالة قسم «ألعاب زمان» وملفاته حاليًا.\n• إزالة مشغّل LibVLC واعتماد ExoPlayer للتشغيل.\n• معالجة إعداد المشغّل وترتيب الرئيسية المحفوظين بعد الإزالة.\n• تقليل حجم ملف التثبيت إلى 55.3 ميجابايت.",
+    "apk_url": "https://github.com/naifd717-bit/ON-TV-Updates/releases/download/m42/ON_TV_PREMIUM_M177_EXOPLAYER.apk",
+    "sha256": "d8a1d8f7485f771f5460153809fed9e2bed09c251d713bc8606bcd18e08b6b37",
+    "size_bytes": 55320210
   }
 ]
